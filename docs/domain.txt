@@ -1,0 +1,19 @@
+
+
+
+* Feed
+
+    - Properties
+        * url
+
+    - Methods
+        * fetch - gets page content based on URL
+
+* Parser
+    Parses fetched data and extracts stock price
+
+    - Properties
+        * url
+
+    - Methods
+        * parse($content)
