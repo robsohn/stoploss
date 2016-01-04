@@ -67,3 +67,8 @@ swiftmailer:
     username:  "%mailer_user%"
     password:  "%mailer_password%"
     spool:     { type: memory }
+
+guzzle:
+    clients:
+        bossa:
+            base_url: "http://bossa.pl"

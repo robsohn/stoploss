@@ -41,5 +41,14 @@ monolog:
         #    type:   chromephp
         #    level:  info
 
-#swiftmailer:
+swiftmailer:
 #    delivery_address: me@example.com
+    disable_delivery: true
+
+parameters:
+    database_driver:   pdo_mysql
+    database_host:     127.0.0.1
+    database_port:     ~
+    database_name:     stoploss
+    database_user:     root
+    database_password: root

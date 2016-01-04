@@ -17,3 +17,29 @@
 
     - Methods
         * parse($content)
+
+* Stock
+
+* StockType
+
+* Config
+
+
+--------------------------------------------------
+Events
+--------------------------------------------------
+
+* Add Stock to the system
+
+
+* Fetch stock's EOD data
+
+* Parse EOD data to calculate StopLoss
+
+
+
+--------------------------------------------------
+Ideas
+--------------------------------------------------
+
+
